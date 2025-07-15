@@ -217,8 +217,8 @@ const spfGeneralTips = [
 ];
 
 const uvaUvbBullets = [
-  <span key="uva"><b>UVA rays:</b> B for Burning, UVB rays are the main cause of sunburn.</span>,
-  <span key="uvb"><b>UVB rays:</b> A for Aging, UVA rays penetrate deeper into the skin, causing premature aging.</span>,
+  <span key="uva"><b>UVA rays:</b> A for Aging, UVA rays penetrate deeper into the skin, causing premature aging.</span>,
+  <span key="uvb"><b>UVB rays:</b> B for Burning, UVB rays are the main cause of sunburn.</span>,
   <span key="spf"><b>SPF:</b> measures protection against UVB.</span>,
   <span key="pa rating"><b>PA Rating:</b> measures protection against UVA.</span>
 ];
