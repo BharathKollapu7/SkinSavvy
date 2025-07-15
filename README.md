@@ -46,17 +46,19 @@ Users can save favorite products and view personalized skincare routines based o
 | **Testing / Quality** | ESLint, TypeScript ESLint, Prettier                                     |
 
 
-**Project Structure**
+## 📁 Project Structure
 
-src/
-  components/         # Reusable UI components (Button, Card, Toast, etc.)
-  pages/              # Main app pages (Home, Recommendations, Profile, etc.)
-  hooks/              # Custom React hooks (e.g., useAuth, useRecommendations)
-  contexts/           # Context providers (e.g., AuthContext)
-  integrations/       # Supabase client and types
-  public/             # Static assets (logo,background etc.)
-  App.tsx             # Main app entry and routing
-  main.tsx            # ReactDOM render and providers
+| **Path**               | **Description**                                              |
+|------------------------|--------------------------------------------------------------|
+| `src/components/`      | Reusable UI components (e.g., `Button`, `Card`, `Toast`, etc.) |
+| `src/pages/`           | Main app pages (e.g., `Home`, `Recommendations`, `Profile`)   |
+| `src/hooks/`           | Custom React hooks (e.g., `useAuth`, `useRecommendations`)    |
+| `src/contexts/`        | Context providers (e.g., `AuthContext`)                       |
+| `src/integrations/`    | Supabase client and types                                     |
+| `public/`              | Static assets (e.g., `logo`, `background` images)             |
+| `src/App.tsx`          | Main app component and routing logic                          |
+| `src/main.tsx`         | ReactDOM render and providers setup                           |
+
 
 **Getting Started (Prerequisites)**
 Node.js (v18+ recommended)
@@ -73,7 +75,7 @@ cd skinsavvy
 
 bash
 npm install
-# or
+or
 yarn install
 
 **Configure environment variables:**
@@ -84,7 +86,7 @@ Copy .env.example to .env and fill in your Supabase credentials and any other re
 
 bash
 npm run dev
-# or
+or
 yarn dev
 Visit the app:
 Open http://localhost:8080 in your browser.
@@ -118,7 +120,7 @@ Learn about skincare ingredients, product usage, and SPF through interactive gui
 
 bash
 npm run build
-# or
+or
 yarn build
 
 
