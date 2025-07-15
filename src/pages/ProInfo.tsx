@@ -24,16 +24,16 @@ const productGuides = [
     tips: "Use vitamin C serums in the morning, retinol at night. Always patch test new serums first.",
   },
   {
-    name: "Sunscreen",
-    description: "A protective barrier that shields skin from harmful UV rays",
-    usage: "Apply generously 15-30 minutes before sun exposure. Reapply every 2 hours or after swimming/sweating.",
-    tips: "Use broad-spectrum SPF 30 or higher daily. Don't forget neck, ears, and hands. Reapplication is key.",
-  },
-  {
     name: "Moisturizer",
     description: "A hydrating product that maintains skin's moisture barrier and prevents water loss",
     usage: "Apply twice daily after serum. Use upward motions, don't forget neck. Day and night formulas may differ.",
     tips: "Gel moisturizers for oily skin, cream for dry skin. Look for ingredients like hyaluronic acid and ceramides.",
+  },
+  {
+    name: "Sunscreen",
+    description: "A protective barrier that shields skin from harmful UV rays",
+    usage: "Apply generously 15-30 minutes before sun exposure & after moisturizer. Reapply every 2 hours or after swimming/sweating.",
+    tips: "Use broad-spectrum SPF 30 or higher daily. Don't forget neck, ears, and hands. Reapplication is key.",
   }
 ];
 
