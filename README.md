@@ -12,7 +12,7 @@ Welcome to SkinSavvy, a modern web application that delivers personalized skinca
 - [Contributing](#contributing)
 - [License](#license)
 
-**Features:**
+**Features**
 1) Personalized Product Recommendations:
 Users receive skincare product suggestions tailored to their skin type and concerns, with direct links to official brand sites for easy purchasing.
 
