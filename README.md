@@ -12,7 +12,7 @@ Welcome to SkinSavvy, a modern web application that delivers personalized skinca
 - [Contributing](#contributing)
 - [License](#license)
 
-**Features**
+## Features
 1) Personalized Product Recommendations:
 Users receive skincare product suggestions tailored to their skin type and concerns, with direct links to official brand sites for easy purchasing.
 
@@ -98,7 +98,7 @@ yarn dev
 *Visit the app:*
 Open http://localhost:8080 in your browser.
 
-**Usage:**
+## Usage:
 *Core User Flows*
 1) Sign Up / Sign In:
 Create an account or log in to access personalized features.
@@ -122,7 +122,7 @@ Update your skin type, concerns, and personal information at any time.
 Learn about skincare ingredients, product usage, and SPF through interactive guides.
 
 
-**Deployment**
+## Deployment
 *Build for production:*
 
 ```bash
@@ -132,15 +132,21 @@ yarn build
 ```
 
 
-Contributing
+## 🤝 Contributing
+
 We welcome contributions! To get started:
 
--> Fork the repository.
--> Create a new branch: git checkout -b feature/your-feature
--> Commit your changes: git commit -m 'Add new feature'
--> Push to your branch: git push origin feature/your-feature
--> Open a pull request.
+- Fork the repository.  
+- Create a new branch:  
+  `git checkout -b feature/your-feature`  
+- Commit your changes:  
+  `git commit -m 'Add new feature'`  
+- Push to your branch:  
+  `git push origin feature/your-feature`  
+- Open a pull request.
+
 *Please follow the code style and include tests where applicable.*
 
-**License**
+
+## License
 This project is licensed under the MIT License.
