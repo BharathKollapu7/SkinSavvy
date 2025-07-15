@@ -74,26 +74,27 @@ Users can save favorite products and view personalized skincare routines based o
 ```bash
 git clone https://github.com/your-username/skinsavvy.git
 cd skinsavvy
-
+```
 
 **Install dependencies:**
 
-bash
+```bash
 npm install
 or
 yarn install
+```
 
 **Configure environment variables:**
-
 Copy .env.example to .env and fill in your Supabase credentials and any other required values.
 
 **Start the development server:**
 
-bash
+```bash
 npm run dev
 or
 yarn dev
-Visit the app:
+```
+*Visit the app:*
 Open http://localhost:8080 in your browser.
 
 **Usage:**
@@ -123,10 +124,11 @@ Learn about skincare ingredients, product usage, and SPF through interactive gui
 **Deployment**
 *Build for production:*
 
-bash
+```bash
 npm run build
 or
 yarn build
+```
 
 
 Contributing
