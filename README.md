@@ -1,15 +1,16 @@
 SkinSavvy – Your Personalized Skincare Guide
 Welcome to SkinSavvy, a modern web application that delivers personalized skincare recommendations, product education, and interactive tools to help users achieve their healthiest skin. Powered by React, Supabase, and a custom UI built with Tailwind CSS and Radix UI, SkinSavvy combines a beautiful user experience with robust, scalable technology.
 
-**Table of Contents:** 
-Features
-Tech Stack
-Project Structure
-Getting Started
-Usage
-Deployment
-Contributing
-License
+## 📚 Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 **Features:**
 1) Personalized Product Recommendations:
