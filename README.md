@@ -60,16 +60,21 @@ Users can save favorite products and view personalized skincare routines based o
 | `src/main.tsx`         | ReactDOM render and providers setup                           |
 
 
-**Getting Started (Prerequisites)**
-Node.js (v18+ recommended)
-npm or yarn
+## 🚀 Getting Started (Prerequisites)
 
-**Installation**
-Clone the repository:
+- Node.js (v18+ recommended)
+- npm or yarn
 
-bash
+---
+
+## 📦 Installation
+
+### Clone the repository:
+
+```bash
 git clone https://github.com/your-username/skinsavvy.git
 cd skinsavvy
+
 
 **Install dependencies:**
 
