@@ -30,18 +30,20 @@ Educational resources on skincare ingredients, product usage, and SPF informatio
 6) Favorites & Routines:
 Users can save favorite products and view personalized skincare routines based on their profile.
 
-**Tech Stack:**
-Category	          Technology / Library
-Frontend	          React, TypeScript, Vite
-UI Components	      Radix UI, shadcn/ui, Lucide Icons, Embla Carousel
-Styling	            Tailwind CSS, tailwindcss-animate, custom color palette
-State/Data	        React Query, React Hook Form, Zod
-Authentication	    Supabase Auth
-Database	          Supabase (Postgres)
-Routing	            React Router DOM
-Notifications	      Radix Toast, Sonner
-Other Utilities	    clsx, class-variance-authority, date-fns, AOS
-Testing/Quality	    ESLint, TypeScript ESLint, Prettier
+## 🛠️ Tech Stack
+
+| **Category**          | **Technology / Library**                                                |
+|-----------------------|-------------------------------------------------------------------------|
+| **Frontend**          | React, TypeScript, Vite                                                 |
+| **UI Components**     | Radix UI, shadcn/ui, Lucide Icons, Embla Carousel                       |
+| **Styling**           | Tailwind CSS, tailwindcss-animate, custom color palette                 |
+| **State / Data**      | React Query, React Hook Form, Zod                                       |
+| **Authentication**    | Supabase Auth                                                           |
+| **Database**          | Supabase (Postgres)                                                     |
+| **Routing**           | React Router DOM                                                        |
+| **Notifications**     | Radix Toast, Sonner                                                     |
+| **Other Utilities**   | clsx, class-variance-authority, date-fns, AOS                           |
+| **Testing / Quality** | ESLint, TypeScript ESLint, Prettier                                     |
 
 
 **Project Structure**
